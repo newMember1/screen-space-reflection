@@ -6,7 +6,7 @@ ssr demo
 ![image](https://github.com/newMember1/screen-space-reflection/blob/master/pics/Screenshot%20from%202021-09-06%2023-22-43.png)
 
 使用方法(linux)：
-```
+```shell
 mkdir build
 cd build
 cmake ..
