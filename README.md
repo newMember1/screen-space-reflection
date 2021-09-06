@@ -14,6 +14,9 @@ make
 ./screen-space-reflection
 ```
 
+todo:
+1.  添加带贴图模型来验证binary search是否能有效改善锯齿
+
 reference:
 1.  https://www.cnblogs.com/yangrouchuan/p/7574405.html
 2.  https://zhuanlan.zhihu.com/p/49459651
