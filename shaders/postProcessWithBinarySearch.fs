@@ -42,7 +42,7 @@ bool getHitPosUV(vec3 p, inout vec2 lastScreenCoord, inout vec2 hitUV)
     return false;
 }
 
-int maxSteps = 128;
+int maxSteps = 256;
 int maxSplitCounts = 64;
 float rayLength = 10.0;
 bool rayMarching(vec3 startPos, vec3 direc, out vec2 hitUV, out vec3 debugColor)
